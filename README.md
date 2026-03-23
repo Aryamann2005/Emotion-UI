@@ -26,5 +26,4 @@ An intelligent UI system that adapts based on the user's emotional state.
 
 ## 🎯 Future Improvements
 - Real emotion detection using AI
-- Webcam integration
 - Better animations
