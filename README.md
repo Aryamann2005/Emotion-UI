@@ -1,22 +1,30 @@
 # Emotion-Based UI 🎭
 
 ## 🚀 Overview
-A dynamic user interface that adapts based on the user's emotional state.
+An intelligent UI system that adapts based on the user's emotional state.
 
 ## 💡 Features
-- Detects user mood (simulated / webcam-based)
-- Changes UI colors and layout dynamically
-- Enhances user experience using adaptive design
+- Dynamic UI changes based on mood
+- Different themes (Happy, Sad, Neutral)
+- Interactive frontend experience
 
 ## 🛠️ Tech Stack
 - HTML
 - CSS
 - JavaScript
+- Node.js
 
-## 🧠 Concept
-This project demonstrates how UI/UX can be personalized using emotional data.
+## ⚙️ How to Run
+1. Install dependencies:
+   npm install
+
+2. Start server:
+   node server.js
+
+3. Open in browser:
+   http://localhost:3000
 
 ## 🎯 Future Improvements
-- Real emotion detection using ML
+- Real emotion detection using AI
 - Webcam integration
-- Advanced UI transitions
+- Better animations
