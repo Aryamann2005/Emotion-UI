@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  transition: background-color 0.5s ease;
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+video {
+  border: 2px solid #333;
+  border-radius: 10px;
+}
+
+#moodDisplay {
+  margin-top: 20px;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+body.happy {
+  background-color: #FFC107; /* Joyful yellow */
+}
+
+body.sad {
+  background-color: #2196F3; /* Calm blue */
+}
+
+body.angry {
+  background-color: #F44336; /* Fiery red */
+}
+
+body.neutral {
+  background-color: #9E9E9E; /* Neutral gray */
+}
+
+body.surprised {
+  background-color: #FFEB3B; /* Bright yellow */
+}
+
+body.fearful {
+  background-color: #4CAF50; /* Green */
+}
+
+body.disgusted {
+  background-color: #9C27B0; /* Purple */
+}
